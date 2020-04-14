@@ -15,21 +15,25 @@ Can we do this with a large number of mobs?
 
 # Meetup Session Abstract
 
-Can a small set of rules help a newly formed mob to build trust quickly? Can the same mob then transition to more relaxed mobbing practices, improving flow?
+Can a small set of rules help a newly formed mob to build trust quickly? Can the same mob then transition to more relaxed mobbing practices, turning up flow and collaboration?
 
 In this session we will start to find out by running an experiment:
 - After a small introduction
 - We form one or two mobs, choose an exercise and a programming language
 - Our style of working is fixed for the first round of mobbing (about 15 minutes)
-- After the first round the teams evolve by running quick retrospectives and continuing to work as a mob (for up to 90 minutes)
+- After the first round the teams evolve by running quick retrospectives and continuing to collaborate as a mob (for up to 90 minutes)
 - We finish the session by sharing our experiences and learnings
 
 Our hypothesis for this format is: When we actively focus on building trust first we are rewarded with whole team collaboration, learning and performance.
 
 Paraphrasing Woody Zuill: Let's "turn up the good" and create an environment where everybody can excel.
 
+Looking forward to seeing you!
+
+
+Organizational notes:
+This is an intentionally short session designed to fit into your busy day. Which implies we will try to start on time.
 To participate you need nothing more than an internet connection and the ability to join a zoom call (install the standalone client in advance). We prefer to use cameras, so let's wear pants... :-)
-This is an intentionally short session so it can fit into your busy day, which means we want to start on time.
 
 
 # Rounds, Roles and Rotation
@@ -115,7 +119,9 @@ This is an intentionally short session so it can fit into your busy day, which m
     - Music -> ???
     - Whatever you experienced so far and want more of...
 
-## Run a Micro Retro (as introduced by Fred Zuill) to decide what to focus on 
+## Run a Micro Retro to decide what to focus on 
+
+I learned this retro format from Fred Zuill during a remote mob session. It turned out to be quick, very effective and leave us with a log of our team learnings.
 
 Everybody shares two things:
 1. How I feel
@@ -124,6 +130,7 @@ Everybody shares two things:
 - Every time someone shares a thing to turn up, write it into your Micro Retro text file
 - Things that already have been mentioned get a '*' in front of them
 - Keep list ordered by number of '*'
+- Add to this file in every following Micro Retro
 
 Example:
 
@@ -141,5 +148,4 @@ Keep this file for our big retrospective later, these are your team's most impor
 
 From here on you as a team decide how you want to work and what you want to focus on.
 
-Just one tip: Keep the quick retrospective after each round of mobbing.
-
+Just one tip: Keep the quick retrospectives after each round of mobbing. **"Turn up the good"**
