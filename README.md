@@ -1,11 +1,10 @@
-# Flash Mob Programming - Trust over Performance
+# Flash Mob Programming - Trust First
 
-A mob programming format, aimed towards creating trust quickly in a newly formed mob.
-
+A mob programming format, aimed towards creating trust quickly in newly formed mobs.
 
 # Guiding Questions
 
-Is there a small set of rules that helps a newly formed mob to build trust quickly?
+Can a small set of rules help a newly formed mob to build trust quickly?
 
 Can the same mob then transition to more relaxed mobbing practices, improving flow of progress and learning?
 
@@ -16,7 +15,22 @@ Can we do this with a large number of mobs?
 
 # Meetup Session Abstract
 
-TBD
+Can a small set of rules help a newly formed mob to build trust quickly? Can the same mob then transition to more relaxed mobbing practices, improving flow?
+
+In this session we will start to find out by running an experiment:
+- After a small introduction
+- We form one or two mobs, choose an exercise and a programming language
+- Our style of working is fixed for the first round of mobbing (about 15 minutes)
+- After the first round the teams evolve by running quick retrospectives and continuing to work as a mob (for up to 90 minutes)
+- We finish the session by sharing our experiences and learnings
+
+Our hypothesis for this format is: When we actively focus on building trust first we are rewarded with whole team collaboration, learning and performance.
+
+Paraphrasing Woody Zuill: Let's "turn up the good" and create an environment where everybody can excel.
+
+To participate you need nothing more than an internet connection and the ability to join a zoom call (install the standalone client in advance). We prefer to use cameras, so let's wear pants... :-)
+This is an intentionally short session so it can fit into your busy day, which means we want to start on time.
+
 
 # Rounds, Roles and Rotation
 
@@ -53,6 +67,7 @@ TBD
     - Navigator calls out every transition to a new phase and the phase's goal
 
 - Bonus: Celebrate moments of excellence!
+
 
 # Round 1 Retrospective
 
