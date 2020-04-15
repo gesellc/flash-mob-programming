@@ -17,7 +17,7 @@ Can we do this with a large number of mobs?
 
 Can a small set of rules help a newly formed mob to build trust quickly? Can the same mob then transition to more relaxed mobbing practices, turning up flow and collaboration?
 
-In this session we will start to find out by running an experiment:
+In this session we will start to find out:
 - After a small introduction
 - We form one or two mobs, choose an exercise and a programming language
 - Our style of working is fixed for the first round of mobbing (about 15 minutes)
@@ -144,8 +144,16 @@ Example:
 Keep this file for our big retrospective later, these are your team's most important learnings.
 
 
-# Rounds 2 - N Objective: Improve and learn, value trust over performance 
+# From here on: Keep turning up the good  
 
-From here on you as a team decide how you want to work and what you want to focus on.
+From here on you as a team decide how you want to work and what you want to focus on. You might want to keep the mantra in mind: Trust over performance.
 
-Just one tip: Keep the quick retrospectives after each round of mobbing. **"Turn up the good"**
+## Round of Mobbing
+
+Enjoy collaboration and progress.   
+
+## Micro Retro
+
+Run a quick Micro Retro after each round of mobbing. **"Turn up the good"**
+
+## Repeat
