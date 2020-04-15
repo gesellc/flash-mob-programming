@@ -2,6 +2,8 @@
 
 A mob programming format, aimed towards creating trust quickly in newly formed mobs.
 
+We do this by coming together applying very strict rules for a short time. If these rules do their job, they create structure and space to actively listen, practice empathy and getting to know each other. Having acted out this explicit marker of trust we then free ourselves from these rules, iterating and improving as a team, enjoying the ride in pursuit of flow.
+
 # Guiding Questions
 
 Can a small set of rules help a newly formed mob to build trust quickly?
@@ -13,7 +15,7 @@ Can we do this within a short session?
 Can we do this with a large number of mobs?
 
 
-# Meetup Session Abstract
+# Session Abstract
 
 Can a small set of rules help a newly formed mob to build trust quickly? Can the same mob then transition to more relaxed mobbing practices, turning up flow and collaboration?
 
