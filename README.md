@@ -4,6 +4,8 @@ A mob programming format, aimed towards creating trust quickly in newly formed m
 
 We do this by coming together applying very strict rules for a short time. If these rules do their job, they create structure and space to actively listen, practice empathy and getting to know each other. Having acted out this explicit marker of trust we then free ourselves from these rules, iterating and improving as a team, enjoying the ride in pursuit of flow.
 
+While in the beginning only the navigator speaks or initiates conversation, you might then decide to iterate towards Woody Zuill's ideal of everybody contributing the right thing, at the right time, in the right way.
+
 # Guiding Questions
 
 Can a small set of rules help a newly formed mob to build trust quickly?
