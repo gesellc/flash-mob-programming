@@ -1,10 +1,13 @@
 # Flash Mob Programming - Trust First
 
-A mob programming format, aimed towards creating trust quickly in newly formed mobs.
+A mob programming format aimed towards creating trust quickly and exploring both the joy and challenge of collaboratively pushing for performance.   
 
 We do this by coming together applying very strict rules for a short time. If these rules do their job, they create structure and space to actively listen, practice empathy and getting to know each other. Having acted out this explicit marker of trust we then free ourselves from these rules, iterating and improving as a team, enjoying the ride in pursuit of flow.
 
-While in the beginning only the navigator speaks or initiates conversation, you might then decide to iterate towards Woody Zuill's ideal of everybody contributing the right thing, at the right time, in the right way.
+The participants collaboratively self-guide the exercise in search of the best learning opportunities for their group at that time.  
+
+The format is intended to fit into a very short time box (90 minutes), allow for remote "FlashMobs" and - over time, through experience and improvements of this text - make facilitation as easy as possible.
+
 
 # Guiding Questions
 
@@ -20,11 +23,12 @@ Can we do this with a large number of mobs?
 
 A few ideas how we could call this format while we start to work with it and uncover what it really is:
 
-- **Flash Mob Programming** - because of the initial idea of very short and snappy sessions (ca 90 minutes) of random people that happen to show up. And the resulting experimentation with trust creation in short time frames 
-- **Trust First Protocol** - because the gist of this is creating space for empathy which can be used by any team for any time frame just to learn how to listen or improve their collaboration
-- Trust over Performance - because we value performance, just make a conscious decision to first establish trust before we push towards performance 
-- **Trust before Performance** - same thing, or maybe not... this could reduce the different treatment of trust and performance to a temporal difference
-- First trust, them performance - feels odd
+- **Flash Mob Programming** - because of the initial idea of very short and snappy sessions (ca 90 minutes) of people that might not know each other yet. And because of the important constraint this time box places on creating trust quickly. 
+- **Trust First Protocol** - because the first commitment of this format is building and acting out trust by listening and creating space for empathy
+- Trust over Performance - because we do value performance, but we make a conscious decision to first establish trust before we push towards performance 
+- **Trust before Performance** - same thing, or maybe not... this might reduces the different treatment of trust and performance to a temporal difference
+- First trust, then performance - feels odd
+- Empathy Dojo - Because we come together to deliberately practice empathy
 - Start with trust - Lets channel our inner Simon Sinek
 - Start with trust, let performance happen
 
@@ -63,10 +67,6 @@ To participate you need nothing more than an internet connection and the ability
 # What is Mob Programming?
 
 _“All the brilliant people working on the same thing, at the same time, in the same space, and on the same computer.”_ – Woody Zuill (Originator of Mob Programming)
-
-Everybody who is involved with the thing we are working on is communicating in real time. All the needed skills and knowledge gathered together.
-
-It is NOT 5 people watching one person programming.
 
 Driver/Navigators:
 One driver is at the keyboard, everyone else is a navigator (be aware that we will change this a little bit).
