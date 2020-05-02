@@ -1,12 +1,12 @@
 # Flash Mob Programming - Trust First
 
-A mob programming format aimed towards creating trust quickly and exploring both the joy and challenge of collaboratively pushing for performance.   
+A mob programming format aimed towards creating trust quickly and exploring both the joy and challenge of pushing for performance as a team.   
 
 We do this by coming together applying very strict rules for a short time. If these rules do their job, they create structure and space to actively listen, practice empathy and getting to know each other. Having acted out this explicit marker of trust we then free ourselves from these rules, iterating and improving as a team, enjoying the ride in pursuit of flow.
 
 The participants collaboratively self-guide the exercise in search of the best learning opportunities for their group at that time.  
 
-The format is intended to fit into a very short time box (90 minutes), allow for remote "FlashMobs" and - over time, through experience and improvements of this text - make facilitation as easy as possible.
+The format is intended to fit into a very short time box (90 minutes), allow for remote "FlashMobs" and - over time, through experience and improvements to this text - make facilitation as easy as possible.
 
 
 # Guiding Questions
@@ -17,7 +17,7 @@ Can the same mob then transition to more relaxed mobbing practices, improving fl
 
 Can we do this within a short session?
 
-Can we do this with a large number of mobs?
+Can we do this with a large number of self-facilitating mobs?
 
 # Naming is hard
 
@@ -26,7 +26,7 @@ A few ideas how we could call this format while we start to work with it and unc
 - **Flash Mob Programming** - because of the initial idea of very short and snappy sessions (ca 90 minutes) of people that might not know each other yet. And because of the important constraint this time box places on creating trust quickly. 
 - **Trust First Protocol** - because the first commitment of this format is building and acting out trust by listening and creating space for empathy
 - Trust over Performance - because we do value performance, but we make a conscious decision to first establish trust before we push towards performance 
-- **Trust before Performance** - same thing, or maybe not... this might reduces the different treatment of trust and performance to a temporal difference
+- **Trust before Performance** - same thing, or maybe not... this might reduce the different treatment of trust and performance to a temporal difference
 - First trust, then performance - feels odd
 - Empathy Dojo - Because we come together to deliberately practice empathy
 - Start with trust - Lets channel our inner Simon Sinek
@@ -216,3 +216,5 @@ Revisit Micro Retro file.
 Run a full retro according to your situation.
 
 Explicitly ask participants how they experienced the focus on trust and empathy.
+
+Did you experience the group moving from internal focus - practicing empathy, concentrating on each other - to more focus on the task, increasing performance?
