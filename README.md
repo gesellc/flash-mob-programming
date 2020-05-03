@@ -26,7 +26,7 @@ Naming is hard, this is work in progress...
 
 # Alright, how do we do this?
 
-Over multiple rounds of mobbing we guide ourselves from strict rules to more fluid and efficient styles of communication and towards higher performance. On this path we try to find the best learning opportunities for us as a team.
+Over multiple rounds of mobbing we guide ourselves from strict rules to more fluid and efficient styles of communication, towards higher productivity and performance. We would expect challenges to emerge. On this path we try to find the best learning opportunities for us as a team.
 
 Two essentials of mob programming and how we implement them:
 
@@ -53,7 +53,7 @@ This is our working agreement for at least the first round of mobbing:
         - **Communicate your thinking and your intent** to the team
         - Tell driver what to do on the best level of abstraction for the driver 
         - Actively ask team for help
-        - Bring an idea that is already play to its natural conclusion rather than switching to your own too early
+        - Bring an idea that is already in play to its natural conclusion rather than just switching to your own
     - 1 Driver:
         - You are the smart input device for the navigator
         - Actively ask navigator for clarifications and for help
@@ -63,9 +63,9 @@ This is our working agreement for at least the first round of mobbing:
         - Stay silent until actively asked by navigator (you can always celebrate moments of excellence)
 
 - Empathic Mob
-    - Mobbers listen closely to the navigator and practice empathy
+    - Listen closely to the navigator and practice empathy
     - **Stay aware of the navigator's intent** and situation
-    - When you become the navigator **bring that intention towards its natural conclusion**
+    - When you become the navigator **bring that intention further towards its natural conclusion**
 
 - Explicit TDD
     - Coding happens in cycles of writing a failing test, then make it pass with the simplest solution that might work, refactor whenever necessary
@@ -107,7 +107,7 @@ List your team members' ratings here:
 2. We practiced empathy:
 3. We used strict TDD:
 
-Do we want more of those or do we have enough foundation to relax our communication rules? Use the micro retro to see what the team wants. 
+Do we want more of those or do we have enough foundation to relax our communication rules? Use the micro retro to learn what the team wants. 
 
 ### Run a Micro Retro
 
@@ -136,13 +136,17 @@ Keep this file for our big retrospective later, these are your team's most impor
 
 ## Rounds 2-N: When ready, expand towards performance
 
-From here on you as a team decide how you want to work and what you want to focus on.
+From here on you as a team decide what you want to focus on and how you want to evolve your way of working.
+
+The general idea of the exercise is to introduce challenge by pushing for performance.
+
+Use the micro retro at the end of every round to both push for performance and tackle challenges that emerge.
 
 But keep the mantra in mind: Trust over Performance.
 
 ### Round of Mobbing
 
-Enjoy collaboration and progress.   
+Enjoy collaboration and progress. Observe how changes in your way of working affect you as a team. Become aware of emerging challenges.  
 
 ### Micro Retro
 
