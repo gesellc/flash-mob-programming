@@ -16,9 +16,9 @@ The participants collaboratively self-guide the exercise in search of the best l
 
 The format is intended to fit into a very short time box (90 minutes), allow for remote "FlashMobs" and - over time, through experience and improvements to this text - make facilitation as easy as possible.
 
-# How to call this?
+# What's with the name?
 
-Naming is hard, this is work in progress...
+As we all know, naming is hard. These seem to be in the right ballpark for now...
 
 **Flash Mob Programming** - Because of the wish to create very short and snappy sessions (ca 90 minutes) with people that might not know each other yet. This time box places an important (surely challenging) constraint on creating trust. 
 
